@@ -1,0 +1,117 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-primary: #0f1522;
+    --bg-surface: #172130;
+    --bg-inset: #090e17;
+    --border-subtle: rgba(255, 255, 255, 0.08);
+    --shadow-light: rgba(60, 84, 118, 0.4);
+    --shadow-dark: rgba(3, 5, 9, 0.9);
+    --accent-amber: #f59e0b;
+    --accent-cyan: #06b6d4;
+    --accent-emerald: #10b981;
+  }
+
+  body {
+    background-color: var(--bg-primary);
+    color: #e2e8f0;
+    font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  code, pre, .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+    font-feature-settings: 'tnum' on, 'zero' on;
+  }
+}
+
+/* Uplifted 3D Skeuomorphic & Neumorphic Utility Tokens */
+.neu-flat {
+  background: #172130;
+  box-shadow: 12px 12px 28px rgba(3, 5, 9, 0.9), -8px -8px 22px rgba(55, 78, 110, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.neu-convex {
+  background: linear-gradient(145deg, #1d2a3c, #131b28);
+  box-shadow: 10px 10px 24px rgba(3, 5, 9, 0.88), -7px -7px 20px rgba(58, 82, 116, 0.35);
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  border-left: 1px solid rgba(255, 255, 255, 0.08);
+  border-right: 1px solid rgba(0, 0, 0, 0.5);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.neu-sunken {
+  background: #090e17;
+  box-shadow: inset 7px 7px 16px rgba(2, 4, 8, 0.95), inset -5px -5px 12px rgba(45, 65, 92, 0.22);
+  border: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+.neu-button {
+  background: linear-gradient(145deg, #202e42, #141c2a);
+  box-shadow: 6px 6px 16px rgba(3, 5, 9, 0.85), -4px -4px 12px rgba(60, 85, 120, 0.38);
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  border-right: 1px solid rgba(0, 0, 0, 0.4);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.6);
+  transition: all 0.12s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.neu-button:active, .neu-button.active {
+  background: #0c121c;
+  box-shadow: inset 5px 5px 10px rgba(2, 4, 7, 0.95), inset -3px -3px 8px rgba(45, 65, 92, 0.25);
+  transform: translateY(2px);
+  border-color: rgba(0, 0, 0, 0.5);
+}
+
+.neu-knob {
+  background: radial-gradient(circle at 35% 35%, #33445e 0%, #192332 70%, #0a0f17 100%);
+  box-shadow: 8px 8px 20px rgba(2, 4, 8, 0.9), -6px -6px 16px rgba(60, 85, 120, 0.42);
+  border: 2px solid rgba(255, 255, 255, 0.15);
+}
+
+.lcd-display {
+  background: #060a10;
+  border: 1.5px solid rgba(245, 158, 11, 0.3);
+  box-shadow: inset 5px 5px 14px rgba(0, 0, 0, 0.98), inset -3px -3px 8px rgba(40, 55, 75, 0.25), 0 8px 24px rgba(0, 0, 0, 0.6);
+}
+
+.lcd-amber {
+  color: #fbbf24;
+  text-shadow: 0 0 12px rgba(245, 158, 11, 0.7), 0 0 24px rgba(245, 158, 11, 0.3);
+}
+
+.lcd-cyan {
+  color: #38bdf8;
+  text-shadow: 0 0 12px rgba(56, 189, 248, 0.7), 0 0 24px rgba(56, 189, 248, 0.3);
+}
+
+.lcd-green {
+  color: #34d399;
+  text-shadow: 0 0 12px rgba(52, 211, 153, 0.7), 0 0 24px rgba(52, 211, 153, 0.3);
+}
+
+/* 3D Tactile Range Sliders */
+input[type="range"] {
+  accent-color: #f59e0b;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #090e17;
+}
+::-webkit-scrollbar-thumb {
+  background: #253346;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #344862;
+}

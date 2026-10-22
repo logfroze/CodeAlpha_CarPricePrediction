@@ -1,0 +1,41 @@
+Make_Model,Year,Original_MSRP,Mileage,Fuel_Type,Transmission,Condition,Selling_Price
+Toyota Camry,2018,26500,45000,Gasoline,Automatic,Good,17800
+Honda Civic,2019,22800,32000,Gasoline,Automatic,Excellent,18200
+Ford F-150,2017,35000,68000,Gasoline,Automatic,Good,23400
+Chevrolet Silverado,2016,38000,82000,Gasoline,Automatic,Fair,21000
+Tesla Model 3,2021,44000,28000,Electric,Automatic,Excellent,31500
+Hyundai Elantra,2020,21000,25000,Gasoline,Automatic,Excellent,16900
+Subaru Outback,2018,28500,54000,Gasoline,Automatic,Good,19200
+BMW 3 Series,2017,42000,61000,Gasoline,Automatic,Good,21500
+Toyota RAV4,2020,29000,31000,Hybrid,Automatic,Excellent,25100
+Honda CR-V,2019,27500,41000,Gasoline,Automatic,Good,21800
+Mazda CX-5,2018,26000,49000,Gasoline,Automatic,Good,18400
+Audi A4,2016,40000,75000,Gasoline,Automatic,Fair,17200
+Ford Mustang,2019,32000,29000,Gasoline,Manual,Excellent,26400
+Jeep Grand Cherokee,2017,36000,66000,Gasoline,Automatic,Good,22100
+Nissan Rogue,2018,25500,58000,Gasoline,Automatic,Fair,15300
+Volkswagen Jetta,2019,20500,34000,Gasoline,Manual,Good,15600
+Kia Forte,2021,19500,19000,Gasoline,Automatic,Excellent,16800
+Lexus RX 350,2016,46000,72000,Gasoline,Automatic,Good,24500
+Mercedes-Benz C-Class,2017,43000,59000,Gasoline,Automatic,Good,23200
+Chevrolet Equinox,2018,24800,62000,Gasoline,Automatic,Fair,14900
+Toyota Corolla,2020,21500,27000,Gasoline,Automatic,Excellent,17900
+Honda Accord,2018,27000,48000,Gasoline,Automatic,Good,19800
+Ford Explorer,2017,34500,71000,Gasoline,Automatic,Good,20400
+GMC Sierra 1500,2018,39000,59000,Gasoline,Automatic,Good,26800
+Dodge Charger,2019,31000,38000,Gasoline,Automatic,Good,23900
+Hyundai Tucson,2019,25000,42000,Gasoline,Automatic,Good,18200
+Subaru Forester,2020,27500,33000,Gasoline,Automatic,Excellent,22400
+BMW X5,2016,58000,79000,Diesel,Automatic,Good,27900
+Toyota Highlander,2019,36000,41000,Hybrid,Automatic,Excellent,29500
+Honda Pilot,2018,34000,53000,Gasoline,Automatic,Good,23800
+Kia Telluride,2021,37000,22000,Gasoline,Automatic,Excellent,34200
+Mazda 3,2019,22000,35000,Gasoline,Manual,Good,17100
+Volvo XC60,2018,44000,51000,Hybrid,Automatic,Good,26400
+Porsche Macan,2017,54000,48000,Gasoline,Automatic,Excellent,36900
+Ram 1500,2019,36500,46000,Gasoline,Automatic,Good,27500
+Nissan Altima,2018,24000,59000,Gasoline,Automatic,Fair,14500
+Volkswagen Golf,2017,21500,62000,Gasoline,Manual,Good,14200
+Hyundai Santa Fe,2020,31000,30000,Gasoline,Automatic,Excellent,24800
+Chevrolet Tahoe,2016,52000,88000,Gasoline,Automatic,Fair,28500
+Audi Q5,2018,45000,47000,Gasoline,Automatic,Good,27100

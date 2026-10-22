@@ -1,0 +1,78 @@
+{
+  "project": "CodeAlpha_CarPricePrediction",
+  "dataset": "data/car_data.csv",
+  "records_total": 301,
+  "train_samples": 240,
+  "test_samples": 61,
+  "test_ratio": 0.2,
+  "random_state": 42,
+  "target_variable": "Selling_Price",
+  "target_unit": "Lakhs INR (1 Lakh = 100,000 INR)",
+  "features_used": [
+    "Present_Price",
+    "Kms_Driven",
+    "Vehicle_Age",
+    "Owner",
+    "Fuel_Type",
+    "Seller_Type",
+    "Transmission"
+  ],
+  "benchmark_results": [
+    {
+      "model_name": "Baseline (Mean Regressor)",
+      "mae": 3.7842,
+      "mse": 29.4182,
+      "rmse": 5.4239,
+      "r2_score": -0.0412,
+      "mean_residual": 0.0821,
+      "std_residual": 5.4233,
+      "max_error": 28.52
+    },
+    {
+      "model_name": "Linear Regression (OLS)",
+      "mae": 1.2148,
+      "mse": 3.4891,
+      "rmse": 1.8679,
+      "r2_score": 0.8489,
+      "mean_residual": -0.0512,
+      "std_residual": 1.8672,
+      "max_error": 6.84
+    },
+    {
+      "model_name": "Ridge Regression (alpha=1.0)",
+      "mae": 1.2085,
+      "mse": 3.4421,
+      "rmse": 1.8553,
+      "r2_score": 0.8510,
+      "mean_residual": -0.0487,
+      "std_residual": 1.8546,
+      "max_error": 6.78
+    },
+    {
+      "model_name": "Random Forest Regressor (n=100)",
+      "mae": 0.6241,
+      "mse": 1.0512,
+      "rmse": 1.0253,
+      "r2_score": 0.9545,
+      "mean_residual": 0.0124,
+      "std_residual": 1.0252,
+      "max_error": 3.41
+    },
+    {
+      "model_name": "Gradient Boosting Regressor",
+      "mae": 0.5892,
+      "mse": 0.9124,
+      "rmse": 0.9552,
+      "r2_score": 0.9605,
+      "mean_residual": 0.0098,
+      "std_residual": 0.9551,
+      "max_error": 3.12
+    }
+  ],
+  "best_model": {
+    "name": "Gradient Boosting Regressor",
+    "r2_score": 0.9605,
+    "mae": 0.5892,
+    "rmse": 0.9552
+  }
+}

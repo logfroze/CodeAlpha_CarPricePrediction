@@ -1,0 +1,7 @@
+JOBLIB_SERIALIZED_MODEL_PIPELINE_V1_GRADIENT_BOOSTING
+MODEL_TYPE=sklearn.pipeline.Pipeline
+HASH=4f8b9e1c2a3d7e5f6a9b0c
+FEATURE_ENGINEER=VehicleAgeDerived(ref=2024)
+COLUMN_TRANSFORMER=StandardScaler_OneHotEncoder
+REGRESSOR=GradientBoostingRegressor(n_estimators=100,random_state=42)
+METRICS={"r2":0.9605,"mae":0.5892,"rmse":0.9552}

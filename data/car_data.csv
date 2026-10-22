@@ -1,0 +1,340 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+ritz,2014,3.35,5.59,27000,Petrol,Dealer,Manual,0
+sx4,2013,4.75,9.54,43000,Diesel,Dealer,Manual,0
+ciaz,2017,7.25,9.85,6900,Petrol,Dealer,Manual,0
+wagon r,2011,2.85,4.15,5200,Petrol,Dealer,Manual,0
+swift,2014,4.6,6.87,42450,Diesel,Dealer,Manual,0
+vitara brezza,2018,9.25,9.83,2071,Diesel,Dealer,Manual,0
+ciaz,2015,6.75,8.12,18796,Petrol,Dealer,Manual,0
+s cross,2015,6.5,8.61,33429,Diesel,Dealer,Manual,0
+ciaz,2016,8.75,8.89,20273,Diesel,Dealer,Manual,0
+ciaz,2015,7.45,8.92,42367,Diesel,Dealer,Manual,0
+alto 800,2017,2.85,3.6,2135,Petrol,Dealer,Manual,0
+ciaz,2015,6.85,10.38,51000,Diesel,Dealer,Manual,0
+ciaz,2015,7.5,9.94,15000,Petrol,Dealer,Automatic,0
+ertiga,2015,6.1,7.71,26000,Petrol,Dealer,Manual,0
+dzire,2009,2.25,7.21,77427,Petrol,Dealer,Manual,0
+ertiga,2016,7.75,10.79,43000,Diesel,Dealer,Manual,0
+ertiga,2015,7.25,10.79,41678,Diesel,Dealer,Manual,0
+ertiga,2016,7.75,10.79,43000,Diesel,Dealer,Manual,0
+wagon r,2015,3.25,5.09,35500,CNG,Dealer,Manual,0
+sx4,2010,2.65,7.98,41442,Petrol,Dealer,Manual,0
+alto k10,2016,2.85,3.95,25000,Petrol,Dealer,Manual,0
+ignis,2017,4.9,5.71,2400,Petrol,Dealer,Manual,0
+sx4,2011,4.4,8.01,50000,Petrol,Dealer,Automatic,0
+alto k10,2014,2.5,3.46,45280,Petrol,Dealer,Manual,0
+wagon r,2013,2.9,4.41,56879,Petrol,Dealer,Manual,0
+swift,2011,3.0,4.99,20000,Petrol,Dealer,Manual,0
+swift,2013,4.15,5.87,55138,Petrol,Dealer,Manual,0
+swift,2014,6.0,6.49,16200,Petrol,Individual,Manual,0
+alto k10,2010,1.95,3.95,44542,Petrol,Dealer,Manual,0
+ciaz,2015,7.45,10.38,45000,Diesel,Dealer,Manual,0
+ritz,2012,3.1,5.98,51439,Diesel,Dealer,Manual,0
+ritz,2011,2.35,4.89,54200,Petrol,Dealer,Manual,0
+swift,2014,4.95,7.49,39000,Diesel,Dealer,Manual,0
+ertiga,2014,6.0,9.95,45000,Diesel,Dealer,Manual,0
+dzire,2014,5.5,8.06,45000,Diesel,Dealer,Manual,0
+sx4,2011,2.95,7.74,49998,CNG,Dealer,Manual,0
+dzire,2015,4.65,7.2,48767,Petrol,Dealer,Manual,0
+800,2003,0.35,2.28,127000,Petrol,Individual,Manual,0
+alto k10,2016,3.0,3.76,10079,Petrol,Dealer,Manual,0
+sx4,2003,2.25,7.98,62000,Petrol,Dealer,Manual,0
+baleno,2016,5.85,6.87,24524,Petrol,Dealer,Manual,0
+alto k10,2014,2.55,3.98,20114,Petrol,Dealer,Manual,0
+sx4,2008,1.95,7.15,58000,Petrol,Dealer,Manual,0
+dzire,2014,4.55,8.06,45780,Diesel,Dealer,Manual,0
+omni,2012,1.25,2.69,50000,Petrol,Dealer,Manual,0
+ciaz,2014,7.5,9.04,5584,Petrol,Dealer,Automatic,0
+ritz,2013,2.65,4.89,64532,Petrol,Dealer,Manual,0
+wagon r,2006,1.05,4.15,65000,Petrol,Dealer,Manual,0
+ertiga,2015,5.8,7.71,25870,Petrol,Dealer,Manual,0
+ciaz,2017,7.75,9.29,37000,Petrol,Dealer,Automatic,0
+fortuner,2012,14.9,30.61,104707,Diesel,Dealer,Automatic,0
+fortuner,2015,23.0,30.61,40000,Diesel,Dealer,Automatic,0
+innova,2017,23.0,19.77,15000,Diesel,Dealer,Automatic,0
+fortuner,2013,16.0,30.61,135000,Diesel,Dealer,Automatic,0
+innova,2005,2.75,10.21,90000,Petrol,Individual,Manual,0
+corolla altis,2009,3.6,15.04,70000,Petrol,Dealer,Automatic,0
+etios cross,2015,4.5,7.27,31427,Petrol,Dealer,Manual,0
+corolla altis,2010,4.75,18.54,50000,Petrol,Dealer,Manual,0
+etios g,2014,4.1,6.8,39485,Petrol,Dealer,Manual,0
+fortuner,2014,19.99,35.96,41000,Diesel,Dealer,Automatic,0
+corolla altis,2013,6.95,18.61,40001,Petrol,Dealer,Manual,0
+corolla altis,2015,14.25,16.64,27600,Petrol,Dealer,Automatic,0
+fortuner,2014,18.75,35.96,78000,Diesel,Dealer,Automatic,0
+fortuner,2015,23.5,35.96,47000,Diesel,Dealer,Automatic,0
+fortuner,2017,33.0,36.23,6000,Diesel,Dealer,Automatic,0
+etios liva,2014,4.75,6.95,45000,Diesel,Dealer,Manual,0
+innova,2014,14.5,13.46,65000,Diesel,Dealer,Manual,0
+fortuner,2010,9.25,20.45,59000,Diesel,Dealer,Manual,0
+corolla altis,2011,4.35,14.68,89000,Petrol,Dealer,Manual,0
+corolla altis,2016,14.5,20.91,12000,Petrol,Dealer,Automatic,0
+etios liva,2014,3.95,6.76,40000,Petrol,Dealer,Manual,0
+corolla altis,2011,4.5,12.48,45000,Diesel,Dealer,Manual,0
+corolla altis,2013,7.45,18.61,56001,Petrol,Dealer,Manual,0
+etios liva,2011,2.65,5.71,43000,Petrol,Dealer,Manual,0
+etios cross,2014,4.9,6.87,16500,Petrol,Dealer,Manual,0
+etios g,2015,3.95,6.8,28000,Petrol,Dealer,Manual,0
+corolla altis,2013,5.5,14.68,61000,Petrol,Dealer,Manual,0
+corolla,2004,1.5,12.35,135154,Petrol,Dealer,Automatic,0
+corolla altis,2010,5.25,15.04,45280,Petrol,Dealer,Automatic,0
+etios gd,2015,4.75,7.6,77632,Diesel,Dealer,Manual,0
+camry,2006,2.5,23.73,142000,Petrol,Individual,Automatic,3
+land cruiser,2010,35.0,92.6,78000,Diesel,Dealer,Manual,0
+innova,2014,13.4,14.53,50008,Diesel,Dealer,Manual,0
+innova,2015,14.5,13.46,38000,Diesel,Dealer,Manual,0
+innova,2005,3.49,13.46,197176,Diesel,Dealer,Manual,0
+camry,2015,19.75,30.61,42000,Petrol,Dealer,Automatic,0
+city,2016,10.1,13.6,10980,Petrol,Dealer,Manual,0
+city,2015,8.95,10.79,43000,Petrol,Dealer,Manual,0
+amaze,2016,5.85,7.4,24524,Petrol,Dealer,Manual,0
+brio,2017,5.3,5.9,6000,Petrol,Dealer,Manual,0
+city,2017,10.25,13.6,24800,Petrol,Dealer,Manual,0
+city,2014,7.5,9.9,38000,Petrol,Dealer,Manual,0
+brio,2014,3.5,6.1,30000,Petrol,Dealer,Automatic,0
+city,2015,8.65,10.4,41000,Petrol,Dealer,Manual,0
+city,2015,7.55,9.4,36000,Petrol,Dealer,Manual,0
+city,2016,9.65,10.79,16500,Petrol,Dealer,Manual,0
+city,2017,10.9,14.1,28200,Petrol,Dealer,Manual,0
+jazz,2016,6.4,8.4,32000,Petrol,Dealer,Manual,0
+city,2015,8.5,10.6,35000,Petrol,Dealer,Manual,0
+amaze,2014,4.15,6.6,65000,Diesel,Dealer,Manual,0
+jazz,2017,6.5,8.7,21200,Petrol,Dealer,Manual,0
+city,2017,11.25,13.6,18796,Petrol,Dealer,Manual,0
+city,2014,7.2,9.4,45000,Petrol,Dealer,Manual,0
+amaze,2015,4.75,7.2,40000,Diesel,Dealer,Manual,0
+city,2015,8.75,10.79,35000,Petrol,Dealer,Manual,0
+brio,2016,4.8,5.8,19000,Petrol,Dealer,Manual,0
+jazz,2016,6.5,8.5,15001,Petrol,Dealer,Automatic,0
+city,2015,8.25,10.2,33000,Petrol,Dealer,Manual,0
+brio,2015,4.5,5.7,21000,Petrol,Dealer,Manual,0
+city,2016,9.15,11.5,22000,Petrol,Dealer,Manual,0
+city,2016,8.75,11.5,38000,Diesel,Dealer,Manual,0
+city,2014,6.85,9.2,50000,Petrol,Dealer,Manual,0
+brio,2012,3.0,5.7,35000,Petrol,Dealer,Manual,0
+city,2015,7.9,10.2,40000,Petrol,Dealer,Manual,0
+amaze,2015,4.5,6.8,36000,Petrol,Dealer,Manual,0
+city,2016,9.5,12.5,27000,Petrol,Dealer,Manual,0
+cr-v,2013,12.0,23.0,40000,Petrol,Dealer,Automatic,0
+brio,2014,3.6,5.8,34000,Petrol,Dealer,Manual,0
+city,2015,8.5,11.2,35000,Petrol,Dealer,Manual,0
+city,2017,11.75,15.2,14000,Diesel,Dealer,Manual,0
+amaze,2014,4.25,6.7,55000,Diesel,Dealer,Manual,0
+city,2015,8.25,10.8,31000,Petrol,Dealer,Manual,0
+jazz,2016,6.25,8.4,28500,Petrol,Dealer,Manual,0
+city,2014,7.45,10.1,42000,Petrol,Dealer,Manual,0
+amaze,2015,4.6,7.1,38000,Diesel,Dealer,Manual,0
+city,2017,10.5,13.6,21000,Petrol,Dealer,Manual,0
+brio,2015,4.2,5.8,25000,Petrol,Dealer,Manual,0
+city,2016,9.25,11.9,23000,Petrol,Dealer,Manual,0
+jazz,2017,6.8,8.8,17000,Petrol,Dealer,Manual,0
+city,2015,8.4,10.9,34000,Petrol,Dealer,Manual,0
+amaze,2016,5.2,7.5,22000,Petrol,Dealer,Manual,0
+i20,2014,4.75,6.87,45000,Petrol,Dealer,Manual,0
+verna,2015,6.85,9.4,36000,Diesel,Dealer,Manual,0
+i10,2012,2.75,4.43,50000,Petrol,Dealer,Manual,0
+grand i10,2015,4.5,5.7,35000,Petrol,Dealer,Manual,0
+verna,2014,6.15,9.2,42000,Diesel,Dealer,Manual,0
+creta,2016,11.25,13.6,26000,Diesel,Dealer,Manual,0
+eon,2014,2.25,3.6,40000,Petrol,Dealer,Manual,0
+i20,2016,6.5,8.2,25000,Petrol,Dealer,Manual,0
+verna,2017,9.75,11.5,18000,Diesel,Dealer,Automatic,0
+elantra,2015,11.75,18.61,38000,Diesel,Dealer,Automatic,0
+creta,2017,12.9,14.9,15000,Petrol,Dealer,Automatic,0
+i10,2011,2.55,4.3,55000,Petrol,Dealer,Manual,0
+grand i10,2016,4.95,6.1,28000,Petrol,Dealer,Manual,0
+verna,2013,5.25,8.9,56000,Diesel,Dealer,Manual,0
+i20,2015,5.75,7.6,32000,Petrol,Dealer,Manual,0
+creta,2015,10.5,12.8,42000,Diesel,Dealer,Manual,0
+eon,2016,2.75,3.9,18000,Petrol,Dealer,Manual,0
+i20,2017,7.25,8.9,14000,Diesel,Dealer,Manual,0
+verna,2016,8.25,10.8,28000,Petrol,Dealer,Automatic,0
+xcent,2015,4.4,6.4,41000,Petrol,Dealer,Manual,0
+elantra,2016,13.5,19.2,25000,Petrol,Dealer,Automatic,0
+creta,2016,11.8,13.8,31000,Diesel,Dealer,Manual,0
+grand i10,2014,3.95,5.5,46000,Petrol,Dealer,Manual,0
+i20,2013,4.1,6.5,52000,Diesel,Dealer,Manual,0
+verna,2014,5.95,9.0,48000,Diesel,Dealer,Manual,0
+creta,2018,13.75,15.2,8000,Diesel,Dealer,Automatic,0
+i10,2013,3.1,4.6,42000,Petrol,Dealer,Manual,0
+tucson,2017,18.5,25.4,19000,Diesel,Dealer,Automatic,0
+eon,2015,2.45,3.7,33000,Petrol,Dealer,Manual,0
+i20,2015,5.85,7.8,30000,Petrol,Dealer,Manual,0
+verna,2015,6.95,9.6,34000,Petrol,Dealer,Manual,0
+creta,2017,12.5,14.5,20000,Diesel,Dealer,Manual,0
+xcent,2016,4.8,6.8,29000,Petrol,Dealer,Manual,0
+i10,2010,2.15,4.2,60000,Petrol,Dealer,Manual,0
+i20,2016,6.75,8.4,22000,Diesel,Dealer,Manual,0
+verna,2012,4.75,8.6,63000,Diesel,Dealer,Manual,0
+grand i10,2017,5.5,6.5,12000,Petrol,Dealer,Manual,0
+creta,2016,11.45,13.4,35000,Diesel,Dealer,Manual,0
+eon,2013,2.05,3.5,49000,Petrol,Dealer,Manual,0
+i20,2014,4.95,7.1,43000,Petrol,Dealer,Manual,0
+verna,2017,10.1,12.2,15000,Diesel,Dealer,Automatic,0
+creta,2017,12.75,14.8,19000,Petrol,Dealer,Automatic,0
+xcent,2014,3.95,6.2,49000,Diesel,Dealer,Manual,0
+i10,2012,2.8,4.5,48000,Petrol,Dealer,Manual,0
+i20,2017,7.45,9.1,11000,Petrol,Dealer,Automatic,0
+verna,2015,7.15,9.8,31000,Diesel,Dealer,Manual,0
+grand i10,2015,4.65,5.8,37000,Petrol,Dealer,Manual,0
+creta,2018,14.25,15.6,5000,Diesel,Dealer,Automatic,0
+xcent,2017,5.25,7.1,16000,Petrol,Dealer,Manual,0
+i20,2013,3.95,6.4,56000,Petrol,Dealer,Manual,0
+verna,2013,5.4,8.9,52000,Diesel,Dealer,Manual,0
+creta,2015,10.8,13.0,39000,Petrol,Dealer,Manual,0
+eon,2017,3.15,4.1,9000,Petrol,Dealer,Manual,0
+i20,2016,6.6,8.3,24000,Petrol,Dealer,Manual,0
+verna,2016,8.45,10.9,26000,Diesel,Dealer,Manual,0
+grand i10,2016,5.1,6.2,23000,Petrol,Dealer,Manual,0
+creta,2017,12.4,14.3,22000,Diesel,Dealer,Manual,0
+xcent,2015,4.25,6.5,44000,Diesel,Dealer,Manual,0
+i20,2015,5.95,7.9,28000,Petrol,Dealer,Manual,0
+verna,2014,6.25,9.3,45000,Petrol,Dealer,Manual,0
+creta,2016,11.6,13.5,33000,Petrol,Dealer,Automatic,0
+grand i10,2014,4.1,5.6,44000,Petrol,Dealer,Manual,0
+i20,2017,7.6,9.2,13000,Diesel,Dealer,Manual,0
+verna,2017,10.3,12.5,12000,Petrol,Dealer,Automatic,0
+creta,2018,14.5,15.8,4000,Petrol,Dealer,Automatic,0
+xcent,2016,4.95,6.9,25000,Petrol,Dealer,Manual,0
+i20,2014,4.85,7.0,41000,Diesel,Dealer,Manual,0
+verna,2015,7.3,10.0,29000,Diesel,Dealer,Manual,0
+grand i10,2017,5.65,6.6,10000,Petrol,Dealer,Manual,0
+creta,2017,12.85,14.7,16000,Diesel,Dealer,Automatic,0
+xcent,2015,4.35,6.6,42000,Petrol,Dealer,Manual,0
+i20,2016,6.85,8.5,19000,Diesel,Dealer,Manual,0
+verna,2016,8.65,11.1,23000,Petrol,Dealer,Automatic,0
+grand i10,2015,4.75,5.9,34000,Petrol,Dealer,Manual,0
+creta,2016,11.75,13.7,29000,Diesel,Dealer,Manual,0
+xcent,2017,5.4,7.2,14000,Diesel,Dealer,Manual,0
+i20,2015,6.1,8.0,26000,Petrol,Dealer,Manual,0
+verna,2014,6.4,9.4,43000,Diesel,Dealer,Manual,0
+creta,2018,14.75,16.0,3500,Diesel,Dealer,Automatic,0
+xcent,2016,5.1,7.0,21000,Petrol,Dealer,Manual,0
+i20,2017,7.75,9.4,9500,Diesel,Dealer,Manual,0
+verna,2017,10.5,12.8,11000,Diesel,Dealer,Automatic,0
+grand i10,2016,5.25,6.3,20000,Petrol,Dealer,Manual,0
+creta,2017,13.1,15.0,14000,Diesel,Dealer,Automatic,0
+xcent,2014,4.1,6.3,47000,Petrol,Dealer,Manual,0
+i20,2014,4.95,7.2,39000,Diesel,Dealer,Manual,0
+verna,2015,7.45,10.2,27000,Diesel,Dealer,Manual,0
+grand i10,2017,5.8,6.8,8000,Petrol,Dealer,Manual,0
+creta,2016,11.9,13.9,27000,Diesel,Dealer,Automatic,0
+xcent,2015,4.45,6.7,38000,Diesel,Dealer,Manual,0
+i20,2016,6.95,8.6,17000,Petrol,Dealer,Manual,0
+verna,2016,8.85,11.3,21000,Diesel,Dealer,Automatic,0
+grand i10,2015,4.85,6.0,31000,Petrol,Dealer,Manual,0
+creta,2018,14.9,16.2,2800,Diesel,Dealer,Automatic,0
+xcent,2017,5.55,7.4,12000,Petrol,Dealer,Manual,0
+i20,2015,6.25,8.1,24000,Diesel,Dealer,Manual,0
+verna,2014,6.55,9.5,41000,Diesel,Dealer,Manual,0
+creta,2017,13.25,15.1,12000,Petrol,Dealer,Automatic,0
+xcent,2016,5.2,7.1,19000,Diesel,Dealer,Manual,0
+i20,2017,7.9,9.5,8000,Petrol,Dealer,Automatic,0
+verna,2017,10.7,13.0,9000,Petrol,Dealer,Automatic,0
+grand i10,2016,5.35,6.4,18000,Petrol,Dealer,Manual,0
+creta,2017,13.4,15.3,11000,Diesel,Dealer,Automatic,0
+xcent,2014,4.2,6.4,45000,Diesel,Dealer,Manual,0
+i20,2014,5.1,7.3,37000,Petrol,Dealer,Manual,0
+verna,2015,7.6,10.4,25000,Diesel,Dealer,Manual,0
+grand i10,2017,5.95,7.0,6500,Petrol,Dealer,Manual,0
+creta,2016,12.1,14.1,24000,Diesel,Dealer,Automatic,0
+xcent,2015,4.55,6.8,36000,Petrol,Dealer,Manual,0
+i20,2016,7.1,8.8,15000,Diesel,Dealer,Manual,0
+verna,2016,9.05,11.5,19000,Petrol,Dealer,Automatic,0
+grand i10,2015,4.95,6.1,29000,Petrol,Dealer,Manual,0
+creta,2018,15.1,16.4,2200,Diesel,Dealer,Automatic,0
+xcent,2017,5.7,7.5,10000,Diesel,Dealer,Manual,0
+i20,2015,6.35,8.2,22000,Petrol,Dealer,Manual,0
+verna,2014,6.7,9.7,39000,Diesel,Dealer,Manual,0
+creta,2017,13.5,15.4,9500,Diesel,Dealer,Automatic,0
+xcent,2016,5.35,7.2,17000,Petrol,Dealer,Manual,0
+i20,2017,8.1,9.7,6500,Diesel,Dealer,Manual,0
+verna,2017,10.9,13.2,7500,Diesel,Dealer,Automatic,0
+grand i10,2016,5.45,6.5,16000,Petrol,Dealer,Manual,0
+creta,2017,13.65,15.5,8500,Petrol,Dealer,Automatic,0
+xcent,2014,4.3,6.5,43000,Petrol,Dealer,Manual,0
+i20,2014,5.2,7.4,35000,Diesel,Dealer,Manual,0
+verna,2015,7.75,10.6,23000,Diesel,Dealer,Manual,0
+grand i10,2017,6.1,7.1,5000,Petrol,Dealer,Manual,0
+creta,2016,12.25,14.2,22000,Diesel,Dealer,Automatic,0
+xcent,2015,4.65,6.9,34000,Diesel,Dealer,Manual,0
+i20,2016,7.25,9.0,13000,Petrol,Dealer,Manual,0
+verna,2016,9.25,11.7,17000,Diesel,Dealer,Automatic,0
+grand i10,2015,5.05,6.2,27000,Petrol,Dealer,Manual,0
+creta,2018,15.3,16.6,1800,Diesel,Dealer,Automatic,0
+xcent,2017,5.85,7.7,8500,Petrol,Dealer,Manual,0
+i20,2015,6.45,8.3,20000,Diesel,Dealer,Manual,0
+verna,2014,6.85,9.8,37000,Petrol,Dealer,Manual,0
+creta,2017,13.75,15.6,7500,Diesel,Dealer,Automatic,0
+xcent,2016,5.45,7.3,15000,Diesel,Dealer,Manual,0
+i20,2017,8.25,9.8,5500,Petrol,Dealer,Automatic,0
+verna,2017,11.1,13.4,6000,Petrol,Dealer,Automatic,0
+grand i10,2016,5.55,6.6,14000,Petrol,Dealer,Manual,0
+creta,2017,13.85,15.7,6500,Diesel,Dealer,Automatic,0
+xcent,2014,4.4,6.6,41000,Diesel,Dealer,Manual,0
+i20,2014,5.3,7.5,33000,Petrol,Dealer,Manual,0
+verna,2015,7.9,10.8,21000,Diesel,Dealer,Manual,0
+grand i10,2017,6.25,7.2,4000,Petrol,Dealer,Manual,0
+creta,2016,12.4,14.4,20000,Diesel,Dealer,Automatic,0
+xcent,2015,4.75,7.0,32000,Petrol,Dealer,Manual,0
+i20,2016,7.4,9.1,11000,Diesel,Dealer,Manual,0
+verna,2016,9.45,11.9,15000,Petrol,Dealer,Automatic,0
+grand i10,2015,5.15,6.3,25000,Petrol,Dealer,Manual,0
+creta,2018,15.5,16.8,1200,Diesel,Dealer,Automatic,0
+xcent,2017,6.0,7.8,7000,Diesel,Dealer,Manual,0
+i20,2015,6.55,8.4,18000,Petrol,Dealer,Manual,0
+verna,2014,7.0,10.0,35000,Diesel,Dealer,Manual,0
+creta,2017,13.95,15.8,5500,Petrol,Dealer,Automatic,0
+xcent,2016,5.55,7.4,13000,Petrol,Dealer,Manual,0
+i20,2017,8.4,10.0,4500,Diesel,Dealer,Manual,0
+verna,2017,11.3,13.6,5000,Diesel,Dealer,Automatic,0
+grand i10,2016,5.65,6.7,12000,Petrol,Dealer,Manual,0
+creta,2017,14.1,15.9,4500,Diesel,Dealer,Automatic,0
+xcent,2014,4.5,6.7,39000,Petrol,Dealer,Manual,0
+i20,2014,5.4,7.6,31000,Diesel,Dealer,Manual,0
+verna,2015,8.05,11.0,19000,Diesel,Dealer,Manual,0
+grand i10,2017,6.4,7.3,3000,Petrol,Dealer,Manual,0
+creta,2016,12.55,14.6,18000,Diesel,Dealer,Automatic,0
+xcent,2015,4.85,7.1,30000,Diesel,Dealer,Manual,0
+i20,2016,7.55,9.2,9500,Petrol,Dealer,Manual,0
+verna,2016,9.65,12.1,13000,Diesel,Dealer,Automatic,0
+grand i10,2015,5.25,6.4,23000,Petrol,Dealer,Manual,0
+creta,2018,15.75,17.0,800,Diesel,Dealer,Automatic,0
+xcent,2017,6.15,8.0,5500,Petrol,Dealer,Manual,0
+i20,2015,6.65,8.5,16000,Diesel,Dealer,Manual,0
+verna,2014,7.15,10.1,33000,Petrol,Dealer,Manual,0
+creta,2017,14.2,16.0,3500,Diesel,Dealer,Automatic,0
+xcent,2016,5.65,7.5,11000,Diesel,Dealer,Manual,0
+i20,2017,8.55,10.1,3500,Petrol,Dealer,Automatic,0
+verna,2017,11.5,13.8,4000,Petrol,Dealer,Automatic,0
+grand i10,2016,5.75,6.8,10000,Petrol,Dealer,Manual,0
+creta,2017,14.35,16.1,3000,Diesel,Dealer,Automatic,0
+xcent,2014,4.6,6.8,37000,Diesel,Dealer,Manual,0
+i20,2014,5.5,7.7,29000,Petrol,Dealer,Manual,0
+verna,2015,8.2,11.2,17000,Diesel,Dealer,Manual,0
+grand i10,2017,6.55,7.4,2000,Petrol,Dealer,Manual,0
+creta,2016,12.7,14.8,16000,Diesel,Dealer,Automatic,0
+xcent,2015,4.95,7.2,28000,Petrol,Dealer,Manual,0
+i20,2016,7.7,9.3,8000,Diesel,Dealer,Manual,0
+verna,2016,9.85,12.3,11000,Petrol,Dealer,Automatic,0
+grand i10,2015,5.35,6.5,21000,Petrol,Dealer,Manual,0
+creta,2018,16.0,17.2,500,Diesel,Dealer,Automatic,0
+xcent,2017,6.3,8.1,4000,Diesel,Dealer,Manual,0
+i20,2015,6.75,8.6,14000,Petrol,Dealer,Manual,0
+verna,2014,7.3,10.3,31000,Diesel,Dealer,Manual,0
+creta,2017,14.45,16.2,2500,Diesel,Dealer,Automatic,0
+xcent,2016,5.75,7.6,9000,Petrol,Dealer,Manual,0
+i20,2017,8.7,10.3,2500,Diesel,Dealer,Manual,0
+verna,2017,11.7,14.0,3000,Diesel,Dealer,Automatic,0
+grand i10,2016,5.85,6.9,8000,Petrol,Dealer,Manual,0
+creta,2017,14.6,16.3,2000,Petrol,Dealer,Automatic,0
+xcent,2014,4.7,6.9,35000,Petrol,Dealer,Manual,0
+i20,2014,5.6,7.8,27000,Diesel,Dealer,Manual,0
+verna,2015,8.35,11.4,15000,Diesel,Dealer,Manual,0
+grand i10,2017,6.7,7.5,1200,Petrol,Dealer,Manual,0
+creta,2016,12.85,15.0,14000,Diesel,Dealer,Automatic,0
+xcent,2015,5.05,7.3,26000,Diesel,Dealer,Manual,0
+i20,2016,7.85,9.5,6500,Petrol,Dealer,Manual,0
+verna,2016,10.05,12.5,9000,Diesel,Dealer,Automatic,0
+grand i10,2015,5.45,6.6,19000,Petrol,Dealer,Manual,0
+creta,2018,16.25,17.5,300,Diesel,Dealer,Automatic,0
